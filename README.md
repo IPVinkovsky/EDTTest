@@ -1,2 +1,2 @@
-# EDTTest
+# EDT Test
 Тестовые задания по курсу EDT
